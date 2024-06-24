@@ -1,0 +1,15 @@
+body{
+  background-color: beige;
+}
+
+h3{
+  color: blue;
+  font-family: Arial;
+  size: 12;
+}
+
+h4{
+  color: red;
+  font-family:'Courier New', Courier, monospace;
+  size: 15;
+}
